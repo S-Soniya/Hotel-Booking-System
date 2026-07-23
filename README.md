@@ -92,6 +92,7 @@ Hotel-Booking-System/
 
 ├── create.sql         
 ├── select.sql 
+
 ├── dataset        
 ├── queries.sql            
 ├── er_diagram.png         
