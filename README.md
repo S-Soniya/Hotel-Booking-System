@@ -59,17 +59,29 @@ SQL Concepts Implemented
 
 
 WHERE Clause
+
 ORDER BY
+
 GROUP BY
+
 HAVING Clause
+
 Aggregate Functions
+
 JOIN
+
 Subqueries
+
 Views
+
 Stored Procedures
+
 Triggers
+
 Primary Keys
+
 Foreign Keys
+
 Constraints
 
  Database Relationships
