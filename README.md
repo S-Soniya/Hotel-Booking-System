@@ -89,6 +89,7 @@ Customers can submit Feedback after completing their stay.
  Project Structure
 
 Hotel-Booking-System/
+
 │
 ├── create.sql         
 ├── select.sql 
