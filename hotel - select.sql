@@ -33,26 +33,5 @@ select * from service_booking;
 
 
 
-delete from service_booking;
-delete from feedback;
-delete from invoice;
-delete from payment;
-delete from checkout;
-delete from checkin;
-delete from reservation;
-
-delete from employee;
-
-delete from room;
-
-delete from service;
-
-delete from customer;
-
-delete from room_type;
-
-delete from department;
-
-delete from branch;
 
 delete from hotel;
