@@ -90,7 +90,6 @@ Customers can submit Feedback after completing their stay.
 
 Hotel-Booking-System/
 
-│
 ├── create.sql         
 ├── select.sql 
 ├── dataset        
