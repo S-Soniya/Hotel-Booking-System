@@ -30,8 +30,3 @@ select * from feedback;
 
 select * from service_booking;
 
-
-
-
-
-delete from hotel;
