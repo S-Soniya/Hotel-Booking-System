@@ -10,27 +10,45 @@ The project demonstrates the implementation of Database Management System (DBMS)
  Objectives
  
 Manage hotel and branch information.
+
 Maintain customer registration records.
+
 Handle room reservations and availability.
+
 Store employee and department details.
+
 Record customer check-in and check-out information.
+
 Process payments and generate invoices.
+
 Manage additional hotel services.
+
 Collect customer ratings and feedback.
+
 Maintain data consistency using relational database concepts.
 
  Features
 
 Hotel Management
+
 Branch Management
+
 Customer Management
+
 Room & Room Type Management
+
 Reservation Management
+
 Check-In & Check-Out Management
+
 Employee & Department Management
+
 Payment Management
+
 Invoice Management
+
 Hotel Service Management
+
 Customer Feedback & Rating Management
 
  Technologies Used
