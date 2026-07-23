@@ -90,18 +90,24 @@ Customers can submit Feedback after completing their stay.
 
 Hotel-Booking-System/
 
-├── create.sql         
+├── create.sql   
+
 ├── select.sql 
 
 ├── dataset        
+
 ├── queries.sql            
+
 ├── er_diagram.png         
+
 ├── README.md               
 
  Author
 
 Soniya S
+
 Project: Hotel Booking System
+
 Academic Year : 2026
 
 Technology Used: MySQL & SQL
