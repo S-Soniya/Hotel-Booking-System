@@ -1,0 +1,36 @@
+ branch_id, hotel_id, branch_name, address, city, branch_phone, manager_name, branch_status
+1,2,Central Branch,12 Anna Salai Teynampet,Chennai,514-762-5593,Deepak Sharma,fully booked
+2,12,Marina Branch,15 Beach Road,Chennai,537-198-8918,Swetha Kumar,active
+3,8,OMR Branch,25 OMR Road,Chennai,903-394-3435,Lakshmi Priya,active
+4,11,Airport Branch,8 Airport Road,Chennai,456-106-5659,Suresh Babu,fully booked
+5,11,City Branch,45 MG Road,Coimbatore,973-235-8298,Nithya Priya,active
+6,14,RS Puram Branch,22 RS Puram Main Road,Coimbatore,776-840-5414,Priya Sharma,fully booked
+7,6,Temple Branch,78 West Masi Street,Madurai,866-215-8163,Arun Kumar,fully booked
+8,4,Main Branch,23 Bharathiyar Road,Trichy,693-369-9614,Rahul Verma,active
+9,7,Cantonment Branch,16 Cantonment Road,Trichy,499-391-6990,Arun Kumar,fully booked
+10,4,Highway Branch,56 Salem Main Road,Salem,316-568-3774,Ajay Kumar,fully booked
+11,7,Hill Branch,89 Club Road,Ooty,863-450-1466,Hari Prasad,fully booked
+12,7,Lake Branch,34 Lake View Road,Kodaikanal,344-557-1161,Arun Kumar,fully booked
+13,14,Valley Branch,40 Valley Road,Kodaikanal,457-154-3959,Arun Kumar,active
+14,3,Junction Branch,11 Junction Road,Tirunelveli,196-343-9821,Deepak Sharma,fully booked
+15,13,Railway Branch,63 Railway Station Road,Erode,388-907-7243,Sneha Rani,active
+16,6,Fort Branch,29 Fort Road,Vellore,371-449-5744,Naveen Kumar,active
+17,12,Heritage Branch,81 Heritage Street,Puducherry,865-546-9688,Sneha Rani,fully booked
+18,11,Palace Branch,44 Palace Road,Thanjavur,718-120-5554,Priya Sharma,fully booked
+19,13,Garden Branch,18 Garden Avenue,Chennai,138-718-8096,Rohit Sharma,fully booked
+20,8,Riverside Branch,50 Riverside Road,Coimbatore,850-717-4660,Nithya Priya,fully booked
+21,3,Premium Branch,66 Premium Street,Madurai,805-351-7452,Meena Lakshmi,active
+22,5,Elite Branch,72 Elite Road,Trichy,486-691-9010,Keerthana Devi,fully booked
+23,12,Royal Branch,90 Royal Avenue,Salem,650-639-0376,Divya Singh,fully booked
+24,16,Grand Branch,35 Grand Road,Ooty,772-920-1728,Rohit Sharma,active
+25,6,Classic Branch,55 Classic Street,Kodaikanal,882-873-0151,Hari Prasad,fully booked
+26,8,Central Branch,12 Anna Salai Teynampet,Chennai,548-456-7402,Gokul Krishnan,active
+27,10,Marina Branch,15 Beach Road,Chennai,968-672-3470,Swetha Kumar,fully booked
+28,1,OMR Branch,25 OMR Road,Chennai,756-314-3027,Nithya Priya,active
+29,12,Airport Branch,8 Airport Road,Chennai,673-359-2631,Lakshmi Priya,fully booked
+30,14,City Branch,45 MG Road,Coimbatore,823-867-4724,Keerthana Devi,fully booked
+31,4,RS Puram Branch,22 RS Puram Main Road,Coimbatore,309-126-4034,Anjali Devi,fully booked
+32,10,Temple Branch,78 West Masi Street,Madurai,847-616-0746,Anjali Devi,fully booked
+33,10,Main Branch,23 Bharathiyar Road,Trichy,694-347-1295,Nithya Priya,active
+34,10,Cantonment Branch,16 Cantonment Road,Trichy,226-267-7116,Anjali Devi,fully booked
+35,12,Highway Branch,56 Salem Main Road,Salem,402-608-4688,Rohit Sharma,active

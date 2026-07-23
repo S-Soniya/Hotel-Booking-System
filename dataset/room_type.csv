@@ -1,0 +1,7 @@
+room_type_id, room_type_name, description, capacity, price_per_night, bed_type, room_size
+1,Single Room,Basic room with a single bed and essential facilities,1,2000,King Bed,150
+2,Double Room,Comfortable room with a double bed suitable for two guests,2,3500,Queen Bed,250
+3,Deluxe Room,Spacious room with premium facilities and better amenities,3,5000,Single Bed,350
+4,Suite Room,Luxury room with separate living area and enhanced facilities,4,8000,Queen Bed,600
+5,Executive Room,High-class room with modern facilities and business-friendly features,2,6500,Double Bed,450
+6,Presidential Suite,Premium luxury suite with large space and exclusive amenities,4,12000,California King Bed,1000

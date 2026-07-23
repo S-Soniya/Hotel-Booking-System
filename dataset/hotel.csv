@@ -1,0 +1,21 @@
+ hotel_id, hotel_name, hotel_phone, hotel_email, hotel_rating, established_year, hotel_status
+1,The Leela Palace,747-204-2706,info@theleelapalacechennai.com,3,1989,inactive
+2,Taj Coromandel,936-962-3414,info@tajcoromandel.com,4,1999,inactive
+3,ITC Grand Chola,601-615-1069,info@itcgrandchola.com,3,2004,active
+4,The Park,625-690-2554,reservations@theparkchennai.com,4,1999,inactive
+5,Hyatt Regency,196-997-7691,chennai.regency@hyatt.com,5,1996,active
+6,Radisson Blu,387-842-8352,reservations@radissonblu.com,4,2001,active
+7,Grand by GRT Hotels,216-997-8457,info@grandchennai.com,3,2002,active
+8,Welcomhotel,585-350-5828,welcomechennai@itchotels.in,5,2000,active
+9,Trident,297-261-6977,tridentchennai@oberoihotels.com,5,2011,inactive
+10,The Residency Towers,628-957-0283,reservations@theresidency.com,3,1993,inactive
+11,Accord Metropolitan,403-969-6599,info@accordhotels.com,5,2000,active
+12,Hotel Savera,758-509-1050,savera@saverahotel.com,5,2012,active
+13,Vivanta,822-656-1663,coimbatore@vivanta.com,5,2000,active
+14,Le Meridien,207-336-4253,reservations@lemeridien.com,3,2006,active
+15,The Residency,270-432-5220,info@theresidencycoimbatore.com,4,2012,inactive
+16,Radisson Blu,186-569-0972,coimbatore@radissonblu.com,4,1996,inactive
+17,The Tamara,799-634-3142,reservations@thetamara.com,3,2003,active
+18,Sterling Kodai Lake,289-626-0748,kodai@sterlingholidays.com,4,2009,active
+19,Heritage,862-161-9961,info@heritagemadurai.com,3,2010,active
+20,Courtyard by Marriott,602-738-7413,madurai@courtyard.com,5,1992,inactive
